@@ -1,10 +1,10 @@
 hello
-Hi ,I am Shubham
+Hi ,I am Shubham Raj
 
-Good Evening!!!
+Good Morning!
 
-<<<<<<< HEAD
+leanring  pull request 
 Updating file
-=====
+
 
 
