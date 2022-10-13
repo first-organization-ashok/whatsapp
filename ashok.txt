@@ -1,10 +1,10 @@
 hello
-Hi Ashok
+Hi ,I am Shubham
 
 Good Evening!!!
 
 <<<<<<< HEAD
 Updating file
-=======
-git pull testing
->>>>>>> 0abd6a4ca3e493de688fe3812fa2e132c26fb381
+=====
+
+
